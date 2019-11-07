@@ -1,0 +1,23 @@
+{
+  "name": "27.redux-modul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnow88/27.Redux-modul.git"
+  },
+  "author": "Michał Nowakowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micnow88/27.Redux-modul/issues"
+  },
+  "homepage": "https://github.com/micnow88/27.Redux-modul#readme",
+  "dependencies": {
+    "redux": "^4.0.4",
+    "uuid": "^3.3.3"
+  }
+}
